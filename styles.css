@@ -1,0 +1,181 @@
+*{
+    background-color: #FAFAFA;
+}
+.wholePage{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+
+.phone{
+    position: relative;
+    margin-top: 2rem;
+}
+
+#SS{
+    position: absolute;
+    left: 9.38rem;
+    top: 6.3rem;
+}
+
+.logoPic{
+    height: 4.5rem;
+    width: 12rem;
+    padding-top: 30px;
+    padding-left: 90px;
+    padding-right: 80px; 
+    background-color: white;
+}
+
+.instaBox{
+    border: solid;
+    border-width: 1px;
+    border-color: rgba(240, 230, 230);
+    margin-top: 3.5rem;
+    background-color: white;
+    height: 25rem;
+    margin-left: -1rem;
+    
+}
+
+.forms{
+    display: flex;
+    /* flex-direction: row; */
+    justify-content: center;
+    padding-top: 2rem;
+    background-color: white;
+}
+
+#box1{
+    width: 17rem;
+    height: 2.3rem;
+    border-color: rgba(240, 230, 230);
+    border-width: 1px;
+    background-color: #FAFAFA;
+    border-radius: 5px;
+}
+
+#box2{
+    margin-top: 0.5rem;
+    width: 17rem;
+    height: 2.3rem;
+    border-color: rgba(240, 230, 230);
+    border-width: 1px;
+    background-color: #FAFAFA;
+    border-radius: 5px;
+}
+
+.logInButton{
+    width: 17rem;
+    height: 2rem;
+    margin-top: 1rem;
+    background-color: #0095F6;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+.or{
+    display: inline;
+    color: #9E9E9E;
+    font-family: arial;
+    font-size: small;
+}
+
+.hr{
+    display: inline-flex;
+    background-color: white;
+    padding-top: 0.3rem;
+}
+
+.line1{
+    width: 6rem;
+    margin-left: 3rem;
+    margin-right: 1.8rem;
+    border-top: 0.05rem solid #DBDBDB;
+}
+
+.line2{
+    width: 6rem;
+    margin-left: 1.8rem;
+    margin-right: 3rem;
+    border-top: 0.05rem solid #DBDBDB;
+}
+
+.fbPic{
+    height: 1.2rem;
+    width: 1.2rem;
+    margin-left: 6.3rem;
+}
+
+.fb{
+    display: inline-flex;
+    background-color: white;
+    margin-top: 1.5rem;
+
+}
+
+.written{
+    color: #385085;
+    background-color: white;
+    
+}
+.logIn{
+    padding-top: 0.2rem;
+    margin-left: 0.8rem;
+    color: #385085;
+    font-family: arial;
+    font-size: 14px;
+    background-color: white;
+}
+
+.forgot{
+    padding-top: 1.5rem;
+    margin-left: 1.2rem;
+    color: #385085;
+    font-family: arial;
+    font-size: 12px;
+    background-color: white;
+}
+
+.instaBox2{
+    border: solid;
+    border-width: 1px;
+    border-color: rgba(240, 230, 230);
+    margin-top: 0.7rem;
+    background-color: white;
+    height: 2.6rem;
+    margin-left: -1rem;
+    padding-left: 5rem;
+    padding-top: 1.3rem;
+    font-family: arial;
+    font-size: 14px;
+   
+}
+
+.boxes{
+    z-index: 1;
+}
+
+.signup{
+    color: #0095F6;
+}
+
+.app{
+    font-family: arial;
+    font-size: 14px;
+    padding-left: 8rem;
+    padding-top: 1.3rem;
+}
+
+#appStore{
+    height: 2.5rem;
+    margin-top: 1rem;
+    margin-left: 1.8rem;
+    margin-right: 0.4rem;
+}
+
+#playStore{
+    height: 2.5rem;
+}
